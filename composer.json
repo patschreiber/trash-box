@@ -1,0 +1,28 @@
+{
+    "name": "patschreiber/trash-box",
+    "description": "\"Give a little, receive a little. Ship your trash to others in the hopes you'll get someone else's treasure in exchange. The emphasis is on giving/receiving hidden gems, so the only money exchanged is the cost of shipping.\"",
+    "type": "project",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:patschreiber/trash-box.git"
+        }
+    ],
+    "license": "CC-BY-NC-4.0",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Patrick Schreiber",
+            "email": "im@pats.fyi"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "./src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "laravel/laravel": "^7.12"
+    }
+}
