@@ -1,0 +1,23 @@
+{
+  "name": "trash-box",
+  "version": "0.1.0",
+  "description": "Give a little, receive a little. Ship your trash to others in the hopes you'll get someone else's treasure in exchange. The emphasis is on giving/receiving hidden gems, so the only money exchanged is the cost of shipping.",
+  "repository": "git@github.com:patschreiber/trash-box.git",
+  "author": "Patrick Schreiber <im@pats.fyi>",
+  "license": "CC-BY-NC-4.0",
+  "private": true
+  "bugs": {
+    "url": "https://github.com/patschreiber/fiend/issues",
+    "email": "patrick@goes.click"
+  },
+  "main": "./src/themes/index.js",
+  "directories": {
+    "doc": "./documentation",
+    "test": "./tests",
+    "lib": "./src"
+  },
+  "devDependencies": {
+    "jshint": "^2.12.0"
+  },
+  "readme": "./README.md"
+}
