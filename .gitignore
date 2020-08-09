@@ -33,3 +33,5 @@ Homestead.json
 
 # Tests
 .phpunit.result.cache
+
+bootstrap/cache
