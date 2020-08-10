@@ -1,5 +1,6 @@
 <?php
 
+
 return [
 
     /*
@@ -13,7 +14,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Gcli_TrashBox'),
 
     /*
     |--------------------------------------------------------------------------
@@ -39,7 +40,7 @@ return [
     |
     */
 
-    'debug' => (bool) env('APP_DEBUG', false),
+    'debug' => (bool) env('APP_DEBUG', true),
 
     /*
     |--------------------------------------------------------------------------
